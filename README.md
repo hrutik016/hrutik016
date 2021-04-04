@@ -15,4 +15,4 @@
 <br>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrutik016&show_icons=true&theme=radical">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutik016">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutik016&layout=compact">
