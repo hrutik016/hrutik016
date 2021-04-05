@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **ML and DL**
 
-- ⚡ Fun fact **I listen to songs 12 hrs/day**
+- ⚡ Fun fact ...
 
 
 <h3 align="left">Languages and Tools:</h3>
