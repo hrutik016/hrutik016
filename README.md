@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **evertything!**
 
-- 🤝 I’m looking for help with **Game Development**
+- 🤝 I’m looking for help with **ML/DL**
 
 - ⚡ Fun fact ...
 
