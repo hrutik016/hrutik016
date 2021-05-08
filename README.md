@@ -5,7 +5,6 @@
 [<img src="https://www.canva.com/design/DAEdWqeMVnU/GNkysKUHzLq8WJhv1tPIwA/edit" width=100%>](https://hrutik016.github.io/#/)  
 
 https://metrics.lecoq.io/hrutik016?template=classic&languages=1&followup=1&stars=1&pagespeed=1&tweets=1&projects=1&pagespeed.detailed=false&pagespeed.screenshot=false&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta  
-
 --->
 
 - 🔭 I’m currently working on **Machine Learning and Unity**
