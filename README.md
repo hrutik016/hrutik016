@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hrutik Champaneri</h1>
 <h3 align="center">Seeking Opportunities!</h3>
 
-[<img src="https://www.canva.com/design/DAEdWqeMVnU/GNkysKUHzLq8WJhv1tPIwA/edit" width=100%>](https://hrutik016.github.io/#/)
+<!--
+[<img src="https://www.canva.com/design/DAEdWqeMVnU/GNkysKUHzLq8WJhv1tPIwA/edit" width=100%>](https://hrutik016.github.io/#/)  -->
 
 - 🔭 I’m currently working on **Machine Learning and Unity**
 
@@ -9,7 +10,8 @@
 
 - 🤝 I’m looking for help with **ML/DL**
 
-- ⚡ Fun fact ...
+<!--
+- ⚡ Fun fact ...  -->
 
 <!--
 <h3 align="left">Connect with me:</h3>
