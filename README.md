@@ -55,3 +55,7 @@ https://metrics.lecoq.io/hrutik016?template=classic&languages=1&followup=1&stars
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hrutik016&bg_color=272343"/>
 </a>
 <br>
+### Visior Counter ❤️
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/hrutik016/count.svg" />
+</p>
