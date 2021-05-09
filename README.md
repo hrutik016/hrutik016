@@ -48,16 +48,13 @@ https://metrics.lecoq.io/hrutik016?template=classic&languages=1&followup=1&stars
 
 ## ⚙️ &nbsp;GitHub Analytics:
 
-<p align="right">
+<p align="center">
 <a href="https://github.com/hrutik016">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrutik016&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutik016&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hrutik016&bg_color=272343"/>
-</a>
-<br>
- 
-<p align="left">
  
  ### Visior Counter ❤️
-<img src="https://profile-counter.glitch.me/hrutik016/count.svg" />
-</p>
+ <img src="https://profile-counter.glitch.me/hrutik016/count.svg" />
+ 
+</a>
