@@ -56,4 +56,4 @@ https://metrics.lecoq.io/hrutik016?template=classic&languages=1&followup=1&stars
 </a>
 </p>
  
- ### Visior Counter ❤️     <img src="https://profile-counter.glitch.me/hrutik016/count.svg" />
+ ### Visior Counter  ❤️                     <img src="https://profile-counter.glitch.me/hrutik016/count.svg" />
