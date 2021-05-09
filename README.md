@@ -54,6 +54,9 @@ https://metrics.lecoq.io/hrutik016?template=classic&languages=1&followup=1&stars
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutik016&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hrutik016&bg_color=272343"/>
 </a>
+</p>
+ 
+ <p align="center">
  
  ### Visior Counter ❤️
  <img src="https://profile-counter.glitch.me/hrutik016/count.svg" />
