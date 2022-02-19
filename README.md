@@ -52,7 +52,7 @@ https://metrics.lecoq.io/hrutik016?template=classic&languages=1&followup=1&stars
 <p align="center">
 <a href="https://github.com/hrutik016">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hrutik016&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=नमस्ते 🙏 Programmers! "/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutik016&layout=compact&count_private=true&langs_count=6&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutik016&layout=compact&count_private=true&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hrutik016&&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact&count_private=true"/>
 </a>
 </p>
