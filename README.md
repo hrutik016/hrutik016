@@ -56,6 +56,9 @@ https://metrics.lecoq.io/hrutik016?template=classic&languages=1&followup=1&stars
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hrutik016&&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact&count_private=true"/>
 </a>
 </p>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hrutik-champaneri-45634a192" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hrutik-champaneri-45634a192?trk=profile-badge">Hrutik Champaneri</a></div>
+              
  
  ### Visior Counter  ❤️  <p>                   </p> <img src="https://profile-counter.glitch.me/hrutik016/count.svg" />
 
