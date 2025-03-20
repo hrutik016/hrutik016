@@ -7,11 +7,11 @@
 https://metrics.lecoq.io/hrutik016?template=classic&languages=1&followup=1&stars=1&pagespeed=1&tweets=1&projects=1&pagespeed.detailed=false&pagespeed.screenshot=false&projects.limit=4&tweets.limit=2&stars.limit=4&config.timezone=Asia%2FCalcutta  
 --->
 
-- 🔭 I’m currently working on **Machine Learning and Verilog**
+- 🔭 I’m currently working on **Embedded Systems and Test Automation**
 
 - 🌱 I’m currently learning **evertything!**
 
-- 🤝 I’m looking for help with **ML/DL**
+- 🤝 I’m looking for help with **Real Time Applications**
 
 <!--
 - ⚡ Fun fact ...  -->
